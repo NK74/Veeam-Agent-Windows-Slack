@@ -1,2 +1,15 @@
-# Veeam-Agent-Windows-Slack
-Veeam Agent for Windows to Slack /w Powershell 
+# Veeam Agent for Windows (VAW) x Slack
+Your Veeam Agent for Windows status to Slack with Powershell 
+
+## Installation
+
+It's a simple .ps1 script, 2 script requirement : 
+- Powershell 5.0 or 5.1
+- PSModule PSSLACK (@RamblingCookieMonster https://github.com/RamblingCookieMonster/PSSlack )
+
+`Install-Module PSSlack -Force`
+
+## Configuration
+
+You only need to create your webhook token on Slack
+And custom information field on PS script
