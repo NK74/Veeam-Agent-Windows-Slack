@@ -1,4 +1,4 @@
-# Veeam Agent for Windows (VAW) x Slack
+# Veeam Agent for Windows (VAW) to Slack
 Your Veeam Agent for Windows status to Slack with Powershell 
 
 ## Installation
