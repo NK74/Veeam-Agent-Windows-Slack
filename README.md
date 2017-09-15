@@ -1,10 +1,10 @@
 # Veeam Agent for Windows (VAW) to Slack
-Your Veeam Agent for Windows status to Slack with Powershell 
+Your Veeam Agent for Windows backup status to your Slack channel with Powershell 5.1 !
 
 
 ## Installation
 
-It's a simple .ps1 script, 2 script requirement : 
+It's a simple powershell script, 2 script requirement : 
 - Powershell 5.0 or 5.1
 - PSModule PSSLACK (@RamblingCookieMonster https://github.com/RamblingCookieMonster/PSSlack )
 
